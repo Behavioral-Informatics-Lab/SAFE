@@ -16,3 +16,14 @@ To cite:
   year={2023},
   organization={IEEE}
 }
+
+# Requirements
+
+1. Get the SAFE models weights from this [link](https://drive.google.com/file/d/1t7Ujcj8-YTQ10LQL2e37m8eeB8TRJYRA/view?usp=share_link).
+2. Get the datasets
+3. If using GoogleColab -> add datasets to the "dataset" folder and model weights to the "new_models" folder
+4. Run SAFE-Evaluation.ipynb
+
+SAFE-Framework.ipynb -> contains the experiment code for framework proposed in the paper 
+
+SAFE-FineTuning.ipynb -> is base code for fine-tuning the DeepDerm model
