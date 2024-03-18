@@ -8,14 +8,14 @@ Skin cancer is a prevalent and concerning form of cancer, with an annual inciden
 
 To cite:
 
-@inproceedings{almuzainit2023toward,
-  title={Toward Fairness Across Skin Tones in Dermatological Image Processing},
-  author={Almuzainit, Abdulaziz A and Dendukuri, Srujan K and Singh, Vivek K},
-  booktitle={2023 IEEE 6th International Conference on Multimedia Information Processing and Retrieval (MIPR)},
-  pages={1--7},
-  year={2023},
-  organization={IEEE}
-}
+> @inproceedings{almuzainit2023toward,
+    title={Toward Fairness Across Skin Tones in Dermatological Image Processing},
+    author={Almuzainit, Abdulaziz A and Dendukuri, Srujan K and Singh, Vivek K},
+    booktitle={2023 IEEE 6th International Conference on Multimedia Information Processing and Retrieval (MIPR)},
+    pages={1--7},
+    year={2023},
+    organization={IEEE}
+  }
 
 # Requirements
 
