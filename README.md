@@ -20,10 +20,10 @@ To cite:
 # Requirements
 
 1. Get the SAFE model weights from this [link](https://drive.google.com/file/d/1t7Ujcj8-YTQ10LQL2e37m8eeB8TRJYRA/view?usp=share_link).
-2. Get the datasets
-   - DDI dataset [link](https://ddi-dataset.github.io/).
-   - Fitzpatrick17k[link](https://github.com/mattgroh/fitzpatrick17k)
-4. If using GoogleColab -> add datasets to the "dataset" folder and model weights to the "new_models" folder
+2. Get the datasets:
+   - DDI dataset [link] (https://ddi-dataset.github.io/).
+   - Fitzpatrick17k [link] (https://github.com/mattgroh/fitzpatrick17k).
+4. If using GoogleColab -> add datasets to the "dataset" folder and model weights to the "new_models" folder.
    - arrange the dataset folder to separate folders for darker skin images (i.e., 56) and lighter skin images (i.e., 12) and split them in train/val sub-folders:
      - dataset
         - 12
@@ -32,6 +32,6 @@ To cite:
         - 56
           - train
           - val
-6. Run SAFE-Evaluation.ipynb
+6. Run SAFE-Evaluation.ipynb.
     - SAFE-Framework.ipynb -> contains the experiment code for the framework proposed in the paper. 
     - SAFE-FineTuning.ipynb -> is the base code for fine-tuning the DeepDerm model.
