@@ -24,7 +24,14 @@ To cite:
    - DDI dataset [link](https://ddi-dataset.github.io/).
    - Fitzpatrick17k[link](https://github.com/mattgroh/fitzpatrick17k)
 4. If using GoogleColab -> add datasets to the "dataset" folder and model weights to the "new_models" folder
-   - arrange the dataset folder to separate folders for darker skin images (i.e., 56) and lighter skin images (i.e., 12) and split them in train/val sub-folders: 
+   - arrange the dataset folder to separate folders for darker skin images (i.e., 56) and lighter skin images (i.e., 12) and split them in train/val sub-folders:
+     - dataset
+        - 12
+          - train
+          - val
+        - 56
+          - train
+          - val
 6. Run SAFE-Evaluation.ipynb
 
 SAFE-Framework.ipynb -> contains the experiment code for the framework proposed in the paper. 
