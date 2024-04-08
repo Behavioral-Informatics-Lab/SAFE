@@ -33,7 +33,5 @@ To cite:
           - train
           - val
 6. Run SAFE-Evaluation.ipynb
-
-SAFE-Framework.ipynb -> contains the experiment code for the framework proposed in the paper. 
-
-SAFE-FineTuning.ipynb -> is the base code for fine-tuning the DeepDerm model.
+    - SAFE-Framework.ipynb -> contains the experiment code for the framework proposed in the paper. 
+    - SAFE-FineTuning.ipynb -> is the base code for fine-tuning the DeepDerm model.
